@@ -1,5 +1,7 @@
 # BrowserWarrior
 
+Test only!
+
 Are you a warrior? Are you brave enough to reject your non-modern browser users?
 
 It is time to say YES.
